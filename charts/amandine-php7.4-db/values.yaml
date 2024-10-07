@@ -1,0 +1,11 @@
+NameSpace: karned
+AppName: amandine-php74-db
+NodePort: 32103
+
+MariadbReplicas: 1
+MariadbImageTag: latest
+MariadbDiskSize: 3Gi
+MariadbServerId: 2
+MariadbDbName: DB_75j4na1q3
+MariadbDbUser: 75j4na1q3
+MariadbDbPort: 3306
